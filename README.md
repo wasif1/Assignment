@@ -2,6 +2,11 @@
 
 # NY-Times Assignment
 
+## Demo Application 
+
+https://user-images.githubusercontent.com/22557416/234655659-97dced89-a6d0-4816-9e1e-e1bd5e4f9711.mp4
+
+
 ## How to Build and Run the code? Follow the steps given below :
 
 - COPY URL : https://github.com/wasif1/Assignment.git
