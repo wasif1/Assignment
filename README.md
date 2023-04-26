@@ -21,7 +21,7 @@ https://user-images.githubusercontent.com/22557416/234655659-97dced89-a6d0-4816-
 
 ## How to Run the Test Cases
 
-- Open Project Package which is 'NYTimesApp'
+- Open Project Package which is 'Assignment'
 - Goto APP Package
 - GOTO SRC Package, now you will see three packages which is androidTest(UI Test Cases Package), main(Main Application code Package), test(Unit test Cases Package)
 - Goto the TEST Package now you will see the multiple test case methods, and each method have their own play button on the left hand panel, once you click on play button you will see the options like 'Run ExampleTest' and 'Run ExampleTest with coverage report'
