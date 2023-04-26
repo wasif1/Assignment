@@ -1,10 +1,8 @@
 
 
-# NY-NEWS
+# NY-Times Assignment
 
-## How to Build and Run the code
-
-## Follow the steps given below
+## How to Build and Run the code? Follow the steps given below :
 
 - COPY URL : https://github.com/wasif1/Assignment.git
 - Open Android Studio.
