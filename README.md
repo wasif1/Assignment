@@ -4,7 +4,24 @@
 
 # LOW LEVEL DESIGN
 
-## Database
+- Prepare Architectural Diagrams
+  - Show all the features of the application e.g.
+    - Article Listing Page
+    - Article Details Page
+    - Main Article Source Page 
+
+- API details
+    - List of Articles 
+    - Article Details 
+    - Update Article
+    - Delete Article
+
+- Logging and Exception Handling
+  - Add logs on API Response to track the issues if any
+  - Use try catch on each function to handle the exception and avoid crashes
+
+- Database Design
+  - Define all the required tables and add relations between the tables. For the current requirement document only one table we needed which is showing below:
 
 | Article Table |
 | ------------- |
@@ -15,6 +32,12 @@
 | Publish Time |
 | Author |
 
+- Technical specifications (Pseudo Code)
+    - Open the App
+    - Call the Articles API to load Articles
+    - On Success API Response populate data into UI for user 
+    - On Failure API Response Show Error msg 
+    - On Article click goto Details page and Call Detail api to fetch Specific Article Details
 
 
 ## Demo Application 
