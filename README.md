@@ -2,6 +2,21 @@
 
 # NY-Times Assignment
 
+# LOW LEVEL DESIGN
+
+## Database
+
+| Article Table |
+| ------------- |
+| ArticleID - PK(Unique Identifier) |
+| Title |
+| Description |
+| Image |
+| Publish Time |
+| Author |
+
+
+
 ## Demo Application 
 
 https://user-images.githubusercontent.com/22557416/234655659-97dced89-a6d0-4816-9e1e-e1bd5e4f9711.mp4
